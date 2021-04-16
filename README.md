@@ -8,5 +8,6 @@
 
     data_visualization: notebook de présentation des représentations répondant aux question
     data_cleaning: notebook de présentation du nettoyage de données
-
+    ML_lineare_regression.ipynb : notebook de présentation du modèle de machine learning avec une regression lineaire
+    ML_one_hot_encoding : notebook de présentation du modèle de machine learning avec avec one hot encoding
     requirement : contient les modules nécessaire pour le projet
